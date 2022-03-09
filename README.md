@@ -8,7 +8,7 @@ Credits have to be given to https://github.com/KanekiWeb/Nitro-Generator for wri
 
 ##### *the following tutorial will be how to run this locally, but you can apply the same ideas to running this in a cloud enviornment link Replit, Heroku, etc.*
 
- - clone the git repo: `git clone [link]` (or just copy the code into the respective file names)
+ - clone the git repo: `git clone https://github.com/9ggy/BruteNitro.git` (or just copy the code into the respective file names)
  - replace *Your Webhook* with your discord webhook.
  - run: `pip install -r requirements.txt`
  - run: `python3 brutenitro.py`
